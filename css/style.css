@@ -1,0 +1,44 @@
+h3{
+	color: green;
+	background-color: red;
+}
+h4{
+	color: red;
+}
+.head{
+	color: skyblue;
+}
+.bg{
+	background-color: green;
+}
+
+p{
+	color: rgba(00,00,00,.3);
+
+}
+.header{
+	min-height:100px;
+	background-color: red;
+}
+.box{
+     overflow: hidden;
+     border: 5px solid blue;
+}
+.blog{
+    min-height:100px;
+	background-color: green;
+	width: 70%;
+	float: left;
+}
+.contact{
+	min-height:100px;
+	background-color: yellow;
+	width: 30%;
+	float: right;
+}
+.footer{
+	min-height:70px;
+	background-color: black;
+}
+
+
